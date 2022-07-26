@@ -1,2 +1,2 @@
 # FYP in 2020
-railway frog crack detection with meching learning
+railway fault (frog crack) detection with meching learning
